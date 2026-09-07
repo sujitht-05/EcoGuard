@@ -398,23 +398,6 @@ EcoGuard/
 
 ---
 
-# 📄 File Description
-
-| File           | Purpose                                           |
-| -------------- | ------------------------------------------------- |
-| `index.html`   | Main EcoGuard dashboard interface                 |
-| `styles.css`   | Dashboard styling and responsive UI               |
-| `app.js`       | Main application controller and interaction logic |
-| `data.js`      | Environmental and monitoring-station data         |
-| `charts.js`    | Environmental charts and visualizations           |
-| `map.js`       | Interactive hotspot map and station visualization |
-| `simulator.js` | Environmental impact simulation logic             |
-| `README.md`    | Project documentation                             |
-
-The main application controller handles station selection, tab navigation, chart rendering, simulator interaction, exposure calculation, anomaly display, alerts, and station comparison.
-
----
-
 # 🛠️ Technologies Used
 
 ### Frontend
